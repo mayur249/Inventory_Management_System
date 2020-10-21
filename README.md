@@ -1,5 +1,5 @@
 # Inventory_Management_System
-
+ This project is an Inventory Management System Developed using MERN Stack.
 ## Guide to run the project
 
 * Install dependencies for the server from root directory
